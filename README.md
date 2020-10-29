@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Renrhaf/Renrhaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm mainly working on web sites & applications using PHP/Drupal/Symfony, on both backend & frontend tasks.  
+💼 Available for consulting, contact me on https://renrhaf.fr
 
-Here are some ideas to get you started:
+ℹ️ Contributor to Drupal open source modules.  
+🗺️ Experienced Local Guide on Google maps.  
+📍 Currently living in Montreal, Canada 🍁  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me on :
+- [LinkedIn](https://www.linkedin.com/in/renrhaf/)
+- [Drupal.org](https://www.drupal.org/u/renrhaf)
+- [Github](https://github.com/Renrhaf)
+- [StackOverflow](https://stackoverflow.com/users/1756667/renrhaf)
