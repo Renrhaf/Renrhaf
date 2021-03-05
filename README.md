@@ -10,5 +10,4 @@
 Find me on :
 - [LinkedIn](https://www.linkedin.com/in/renrhaf/)
 - [Drupal.org](https://www.drupal.org/u/renrhaf)
-- [Github](https://github.com/Renrhaf)
 - [StackOverflow](https://stackoverflow.com/users/1756667/renrhaf)
