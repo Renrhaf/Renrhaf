@@ -5,7 +5,7 @@
 
 ℹ️ Contributor to Drupal open source modules.  
 🗺️ Experienced Local Guide on Google maps.  
-📍 Currently living in Montreal, Canada 🍁  
+📍 Currently living in Strasbourg, France
 
 Find me on :
 - [LinkedIn](https://www.linkedin.com/in/renrhaf/)
