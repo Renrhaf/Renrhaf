@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I'm a software engineer with 15+ years of experience on the full IT spectrum : Architecture & Cloud, DevOps, IaC, AI pipelines, Full-Stack development, system & database administration.
+💻 I'm a software engineer with 15+ years of experience on the full IT spectrum : Architecture & Cloud, DevOps, IaC, AI pipelines, Full-Stack development, system & database administration.  
 💼 Available for hire as a consultant, contact me on https://www.saas-production.com or https://www.uncia.fr
 
 ℹ️ Contributor to Drupal open source modules.  
