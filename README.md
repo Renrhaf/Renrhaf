@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-💻 I'm mainly working on web sites & applications using PHP/Drupal/Symfony, on both backend & frontend tasks.  
-💼 Working for my own companies, contact me on https://www.saas-production.com or https://www.uncia.fr
+💻 I'm a software engineer with 15+ years of experience on the full IT spectrum : Architecture & Cloud, DevOps, IaC, AI pipelines, Full-Stack development, system & database administration.
+💼 Available for hire as a consultant, contact me on https://www.saas-production.com or https://www.uncia.fr
 
 ℹ️ Contributor to Drupal open source modules.  
-🗺️ Experienced Local Guide on Google maps.  
-📍 Currently living in Strasbourg, France
+🗺️ Experienced Local Guide on Google Maps.  
+📍 Currently living in Wittisheim, France
 
 Find me on :
 - [LinkedIn](https://www.linkedin.com/in/renrhaf/)
